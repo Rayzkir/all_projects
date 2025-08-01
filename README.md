@@ -15,4 +15,4 @@
 
 Позаказный отчет ОЗОН (планирую частичный перевод на API) - https://github.com/Rayzkir/ordered_reports
 
-ABC анализ по 3 МП (вношу правки) - 
+ABC анализ по 3 МП - https://github.com/Rayzkir/ABC_analysis
